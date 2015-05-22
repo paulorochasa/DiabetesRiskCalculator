@@ -1,0 +1,6 @@
+id;score;detail
+1;Low (<7);It is estimated that 1 in 100 people will develop the disease
+2;Slight (7-11);It is estimated that 1 in 25 people will develop the disease
+3;Moderate (12-14);It is estimated that 1 in 6 people will develop the disease
+4;High (15-20);It is estimated that 1 in 3 people will develop the disease
+5;Severe (>20);It is estimated that 1 in 2 people will develop the disease
