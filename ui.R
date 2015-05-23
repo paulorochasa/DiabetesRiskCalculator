@@ -6,7 +6,7 @@ shinyUI(fluidPage(
 
         title = "Diabetes mellitus risk calculator",
         h3("Diabetes mellitus risk calculator"),
-        div(style="text-align:right;",a("Know more about this app",href="https://github.com/paulorochasa", target="_blank")),
+        div(style="text-align:right;",a("Know more about this app",href="http://paulorochasa.github.io/DiabetesRiskCalculator/", target="_blank")),
         hr(),
         tags$form(
                 fluidRow(
@@ -83,7 +83,7 @@ shinyUI(fluidPage(
                            h5("How calculate bmi?"),
                            code("Bmi = Weight in kilograms / (Height in meters)^2"),
                            br(),
-                           h5("Score results:"),
+                           h5("Score possible results:"),
                            HTML("<small>
                                         <strong style=\"color:lightgreen\">Low</strong> (<7) &nbsp; - &nbsp; 
                                         <strong style=\"color:darkgreen\">Slight</strong> (7-11) &nbsp; - &nbsp; 
